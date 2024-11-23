@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreGroove.Plugin.PublishingService.Authorization", "SitecoreGroove.Plugin.PublishingService.Authorization\SitecoreGroove.Plugin.PublishingService.Authorization.csproj", "{8453DAF1-0EBF-4D2D-94DA-21B35B58C707}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreGroove.Feature.PublishingServiceModule", "SitecoreGroove.Feature.PublishingServiceModule\SitecoreGroove.Feature.PublishingServiceModule.csproj", "{0C3A1802-3387-423D-A0E6-E2F285698397}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8453DAF1-0EBF-4D2D-94DA-21B35B58C707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8453DAF1-0EBF-4D2D-94DA-21B35B58C707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8453DAF1-0EBF-4D2D-94DA-21B35B58C707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8453DAF1-0EBF-4D2D-94DA-21B35B58C707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C3A1802-3387-423D-A0E6-E2F285698397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C3A1802-3387-423D-A0E6-E2F285698397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C3A1802-3387-423D-A0E6-E2F285698397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C3A1802-3387-423D-A0E6-E2F285698397}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2A067FD-06D8-45C6-96CF-9663EBDB732D}
+	EndGlobalSection
+EndGlobal
