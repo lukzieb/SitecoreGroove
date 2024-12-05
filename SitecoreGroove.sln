@@ -7,9 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreGroove.Plugin.Publi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreGroove.Feature.PublishingServiceModule", "SitecoreGroove.Feature.PublishingServiceModule\SitecoreGroove.Feature.PublishingServiceModule.csproj", "{0C3A1802-3387-423D-A0E6-E2F285698397}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreGroove.Plugin.IdentityServer.CredentialsEncryption", "SitecoreGroove.IdentityServer.CredentialsEncryption\SitecoreGroove.Plugin.IdentityServer.CredentialsEncryption.csproj", "{EBCE7B38-5BEE-41BB-A946-4DEAE10C6801}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreGroove.Feature.ConditionalRequests", "SitecoreGroove.Feature.ConditionalRequests\SitecoreGroove.Feature.ConditionalRequests.csproj", "{6712CE7B-3D95-445E-853E-D16D1BA3E4D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreGroove.Plugin.IdentityServer.CredentialsEncryption", "SitecoreGroove.Plugin.IdentityServer.CredentialsEncryption\SitecoreGroove.Plugin.IdentityServer.CredentialsEncryption.csproj", "{E0380261-B372-4654-8D2E-A9A707DD93B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,14 +25,14 @@ Global
 		{0C3A1802-3387-423D-A0E6-E2F285698397}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C3A1802-3387-423D-A0E6-E2F285698397}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C3A1802-3387-423D-A0E6-E2F285698397}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EBCE7B38-5BEE-41BB-A946-4DEAE10C6801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EBCE7B38-5BEE-41BB-A946-4DEAE10C6801}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EBCE7B38-5BEE-41BB-A946-4DEAE10C6801}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EBCE7B38-5BEE-41BB-A946-4DEAE10C6801}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6712CE7B-3D95-445E-853E-D16D1BA3E4D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6712CE7B-3D95-445E-853E-D16D1BA3E4D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6712CE7B-3D95-445E-853E-D16D1BA3E4D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6712CE7B-3D95-445E-853E-D16D1BA3E4D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0380261-B372-4654-8D2E-A9A707DD93B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0380261-B372-4654-8D2E-A9A707DD93B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0380261-B372-4654-8D2E-A9A707DD93B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0380261-B372-4654-8D2E-A9A707DD93B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
