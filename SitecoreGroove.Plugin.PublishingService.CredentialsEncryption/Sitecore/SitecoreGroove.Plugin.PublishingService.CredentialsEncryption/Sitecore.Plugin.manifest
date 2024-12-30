@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SitecorePlugin PluginName="SitecoreGroove.Plugin.PublishingService.CredentialsEncryption" AssemblyName="SitecoreGroove.Plugin.PublishingService.CredentialsEncryption" Version="1.0.0">
+	<Dependencies>
+	</Dependencies>
+	<Tags>
+		<Sitecore>Sitecore</Sitecore>
+	</Tags>
+	<EnvironmentVariablePrefixes />
+</SitecorePlugin>
