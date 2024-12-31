@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -11,6 +11,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Content Include="Sitecore\SitecoreGroove.Plugin.PublishingService.Authorization\Config\SitecoreGroove.Plugin.PublishingService.Authorization.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Sitecore\SitecoreGroove.Plugin.PublishingService.Authorization\Sitecore.Plugin.manifest">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
@@ -18,6 +21,9 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.36" />
+    <PackageReference Include="Sitecore.Framework.Runtime.Abstractions" Version="7.0.0">
+      <ExcludeAssets>runtime</ExcludeAssets>
+    </PackageReference>
   </ItemGroup>
 
 </Project>
