@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreGroove.Plugin.Ident
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreGroove.Plugin.PublishingService.CredentialsEncryption", "SitecoreGroove.Plugin.PublishingService.CredentialsEncryption\SitecoreGroove.Plugin.PublishingService.CredentialsEncryption.csproj", "{09857171-F1BA-4AF9-96BA-24FF6BFB82EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreGroove.Feature.AuthoringAndManagementApi", "SitecoreGroove.Feature.AuthoringAndManagementApi\SitecoreGroove.Feature.AuthoringAndManagementApi.csproj", "{710D8CDD-5864-4D5D-BFA7-158FAF671EA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{09857171-F1BA-4AF9-96BA-24FF6BFB82EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09857171-F1BA-4AF9-96BA-24FF6BFB82EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09857171-F1BA-4AF9-96BA-24FF6BFB82EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{710D8CDD-5864-4D5D-BFA7-158FAF671EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{710D8CDD-5864-4D5D-BFA7-158FAF671EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{710D8CDD-5864-4D5D-BFA7-158FAF671EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{710D8CDD-5864-4D5D-BFA7-158FAF671EA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
