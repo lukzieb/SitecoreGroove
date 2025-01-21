@@ -1,7 +1,7 @@
 ﻿using HotChocolate;
 using HotChocolate.Types;
 
-namespace SitecoreGroove.Feature.AuthoringAndManagementApi.Models
+namespace SitecoreGroove.Feature.AuthoringAndManagementApi.RelatedItems
 {
     [InputObjectType]
     [GraphQLDescription("Represents a related items query input.")]

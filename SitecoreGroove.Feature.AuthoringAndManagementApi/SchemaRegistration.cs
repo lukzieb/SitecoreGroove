@@ -1,5 +1,5 @@
 ﻿using Sitecore.GraphQL.Core;
-using SitecoreGroove.Feature.AuthoringAndManagementApi.Queries;
+using SitecoreGroove.Feature.AuthoringAndManagementApi.RelatedItems;
 using System;
 using System.Collections.Generic;
 

@@ -1,16 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using HotChocolate;
+﻿using HotChocolate;
 using HotChocolate.Types;
 using Sitecore;
 using Sitecore.Abstractions;
 using Sitecore.Data;
 using Sitecore.Data.Fields;
 using Sitecore.Data.Items;
-using SitecoreGroove.Feature.AuthoringAndManagementApi.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
 
-namespace SitecoreGroove.Feature.AuthoringAndManagementApi.Queries
+namespace SitecoreGroove.Feature.AuthoringAndManagementApi.RelatedItems
 {
     [ExtendObjectType(Name = "Query")]
     public class ReleatedItems

@@ -1,7 +1,7 @@
-﻿using System;
-using HotChocolate;
+﻿using HotChocolate;
+using System;
 
-namespace SitecoreGroove.Feature.AuthoringAndManagementApi.Models
+namespace SitecoreGroove.Feature.AuthoringAndManagementApi.RelatedItems
 {
     [GraphQLDescription("Represents a related items search result.")]
     public class RelatedItem
